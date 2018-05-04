@@ -1,4 +1,7 @@
 Aで修正します。(merge)
+<<<<<<< HEAD
 Bで修正します。(merge)
+=======
 Aで修正します。Bがチェックアウト後(merge)
 
+>>>>>>> origin/test
