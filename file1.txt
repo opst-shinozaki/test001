@@ -1,2 +1,3 @@
+Aで修正します。(rebase)
 Bで修正します。(rebase)
 
